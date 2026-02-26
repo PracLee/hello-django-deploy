@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "byoungj/hello-django:deploy",
+    "Name": "byoungj/hello-django-deploy:latest",
     "Update": "true"
   },
   "Ports": [
